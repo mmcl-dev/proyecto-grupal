@@ -4,3 +4,5 @@ let prueba = {
     "descripcion": "Entender para qué puedo usarlo",
     "estado": "pendiente"
    }
+//Algo 1
+//Agrego más lineas - Magda
